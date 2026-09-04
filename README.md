@@ -1,14 +1,17 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=augustobuguas&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Ilustração do status do GitHub">
-Seja bem-vindo! Meu nome é Augusto Buguas
-Experiência de trabalho
+Corrija qualquer possível bug para o meu read.me no github por favor
 
-Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
+### Seja bem-vindo, Meu nome é Augusto Buguas!
 
-<a href="https://br.growatt.com/"> <img align="left" height="94px" width="94px" alt="Logo da Growatt" src="./assets/growatt.png" > </a>
+## Experiência de trabalho
 
-Analista de Suporte
-Growatt Brazil
- • Full-time
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+<img src="./assets/growatt.png" alt="Growatt" width="94px">
+
+**Analista de Suporte** \
+[**Growatt Brazil**](https://br.growatt.com/) • Full-time \
+Linguagens & Tecnologias: `Typescript`, `Javascript`,\
+<br/>
 
 Linguagens & Tecnologias: TypeScript, JavaScript
 

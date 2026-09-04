@@ -1,16 +1,15 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=augustobuguas&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Ilustração do status do GitHub">
+Seja bem-vindo! Meu nome é Augusto Buguas
+Experiência de trabalho
 
-### Seja bem-vindo, Meu nome é Augusto Buguas!
+Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=augustobuguas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<a href="https://br.growatt.com/"> <img align="left" height="94px" width="94px" alt="Logo da Growatt" src="./assets/growatt.png" > </a>
 
-### Experiência de trabalho
+Analista de Suporte
+Growatt Brazil
+ • Full-time
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Linguagens & Tecnologias: TypeScript, JavaScript
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://www.spacex.com/static/images/share.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-ISeS7XPjIQJZq55QK8qbWgfXRjYSWByATKqURUVJYxzDx4Zm_L5R74B&s=10)"/>](https://br.growatt.com/)
-
-**Analista de Suporte** \
-[**Growatt Brazil**](https://br.growatt.com/) • Full-time \
-Linguagens & Tecnologias: `Typescript`, `Javascript`,\
-<br/>
+<br clear="left">

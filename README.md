@@ -1,5 +1,3 @@
-Corrija qualquer possível bug para o meu read.me no github por favor
-
 ### Seja bem-vindo, Meu nome é Augusto Buguas!
 
 ## Experiência de trabalho

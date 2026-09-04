@@ -1,6 +1,6 @@
-### Seja bem-vindo, Meu nome é Augusto Buguas!
+## Seja bem-vindo, Meu nome é Augusto Buguas!
 
-## Experiência de trabalho
+### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 

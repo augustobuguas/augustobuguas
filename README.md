@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=augustobuguas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Growatt Brazil 🇨🇳</p>
+<p>Growatt Brazil</p>
 
 <p align="left">
     <a href="https://www.youtube.com/@augustobuguas?sub_confirmation=1">

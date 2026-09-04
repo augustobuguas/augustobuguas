@@ -8,9 +8,5 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Analista de Suporte** \
 [**Growatt Brazil**](https://br.growatt.com/) • Full-time \
-Linguagens & Tecnologias: `Typescript`, `Javascript`,\
+Linguagens & Tecnologias: `TypeScript`, `Node`e `React` \
 <br/>
-
-Linguagens & Tecnologias: TypeScript, JavaScript
-
-<br clear="left">

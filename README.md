@@ -10,19 +10,12 @@
 <br>
 <br>
 
-<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
-     840x880 so equal widths give equal heights.
-     portrait: python scripts/prep_photo.py <dp.png> && python scripts/make_ascii_svg.py
+<!-- streak/numbers card
      stats:    python scripts/render_stats_svg.py (same daily workflow) -->
 
-<h3><code>augusto@github ~ $ whoami</code></h3>
+<h3><code>augusto@github ~ $ ./stats.sh</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./augusto-ascii.svg" width="420" alt="Augusto Buguas — ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Augusto's GitHub streak and contribution stats — auto-refreshed daily" /></td>
-</tr>
-</table>
+<img src="./stats.svg" width="460" alt="Augusto's GitHub streak and contribution stats — auto-refreshed daily" />
 
 <br>
 <br>
